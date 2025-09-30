@@ -1,0 +1,25 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "AVAILABILITY_ZONES_SECONDARY": [
+    "1",
+    "2",
+    "3"
+  ],
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-alz-connectivity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "5dfb85e3-e2e1-4624-80ae-40934e6ecadc",
+  "IDENTITY_SUBSCRIPTION_ID": "5dfb85e3-e2e1-4624-80ae-40934e6ecadc",
+  "LOCATION": "westus2",
+  "LOGGING_RESOURCE_GROUP": "rg-alz-logging",
+  "MANAGEMENT_SUBSCRIPTION_ID": "5dfb85e3-e2e1-4624-80ae-40934e6ecadc",
+  "NETWORK_TYPE": "hubNetworking",
+  "MANAGEMENT_GROUP_ID": "alz",
+  "PREFIX": "alz",
+  "RELEASE_VERSION": "v0.23.0",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "alzManagementGroup",
+  "SECONDARYLOCATION": "westus3",
+  "SECURITY_SUBSCRIPTION_ID": "5dfb85e3-e2e1-4624-80ae-40934e6ecadc"
+}
